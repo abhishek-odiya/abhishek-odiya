@@ -9,11 +9,12 @@
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=abhishek-odiya&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views">
   </a>
-</div>
+</div> <br>
 
 ## :v: Socials:
-[![linkedin](https://img.shields.io/badge/linkedin-%23181818.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/aryankarma)
-[![x](https://img.shields.io/badge/x-%23181818.svg?style=for-the-badge&logo=x&logoColor=%gray)](https://twitter.com/KarmaAryan)
+[![linkedin](https://img.shields.io/badge/linkedin-%23181818.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/abhishek-odiya-84b502272)
+
+<br>
 
 ## :zap: Tech Stack:
 ![C](https://img.shields.io/badge/C-%2320232a.svg?style=for-the-badge&logo=c&logoColor=A8B9CC)
@@ -27,10 +28,12 @@
 
 <hr/>
 
-## :coffee: GitHub Stats:
-![Aryankarma's GitHub stats](https://github-readme-stats.vercel.app/api/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&cache_seconds=86400)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryankarma&show_icons=true&text_bold=true&theme=transparent&title_color=f5f5f5&text_color=f5f5f5&icon_color=2A79F7&border_radius=15&card_width=435&cache_seconds=86400)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&hide_border=false&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&cache_seconds=86400)<hr/>
+## GitHub Status:
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-odiya&show_icons=true&locale=en&layout=compact" alt="abhishek-odiya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-odiya&show_icons=true&locale=en" alt="abhishek-odiya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-odiya&" alt="abhishek-odiya" /></p> <br>
 Feel free to explore my repositories and connect with me on social media!
 
 <!--
