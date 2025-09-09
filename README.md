@@ -13,8 +13,10 @@
 <br>
 
 ## :zap: Tech Stack:
-![C](https://img.shields.io/badge/C-%2320232a.svg?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) 
+![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6) 
 ![HTML5](https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
