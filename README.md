@@ -1,9 +1,10 @@
 # :heart: **Hi, I'm Abhishek Odiya** 
 
 ## :secret: About Me :
-> I’m currently working on Web Development and DSA<br>
-> I’m looking to collaborate on Development projects<br>
-> You can reach me at abhishekodiya@outlook.com
+
+> I’m a Computer Science student passionate about web development and learning the MERN stack (HTML, CSS, JavaScript, React.js, Node.js, MongoDB).<br>
+> Enthusiastic about building practical, user-friendly applications and improving my skills every day.<br>
+> Eager to work on real-world projects, collaborate in a team, and solve challenging problems through continuous learning.
 > <br/>
 
 ## :v: Socials:
